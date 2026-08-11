@@ -44,7 +44,7 @@ function Home() {
                 Book Appointment
               </Link>
 
-              <a href="tel:+919999999999" className="btn-outline">
+              <a href="tel:+919869407515" className="btn-outline">
                 Call Now
               </a>
             </div>
