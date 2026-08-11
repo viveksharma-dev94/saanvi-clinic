@@ -93,7 +93,7 @@ function Contact() {
             {/* Phone */}
 
             <a
-              href="tel:+919999999999"
+              href="tel:+919869407515"
               className="contact-info-card"
             >
               <div className="contact-info-icon">
@@ -104,7 +104,7 @@ function Contact() {
                 <span>CALL US</span>
 
                 <h3>
-                  +91 99999 99999
+                  +91 9869407515
                 </h3>
 
                 <p>
@@ -117,7 +117,7 @@ function Contact() {
             {/* Email */}
 
             <a
-              href="mailto:info@careclinic.com"
+              href="sandeshyadav100@gmail.com"
               className="contact-info-card"
             >
               <div className="contact-info-icon">
@@ -128,7 +128,7 @@ function Contact() {
                 <span>EMAIL US</span>
 
                 <h3>
-                  info@careclinic.com
+                  sandeshyadav100@gmail.com
                 </h3>
 
                 <p>
@@ -154,7 +154,7 @@ function Contact() {
                 </h3>
 
                 <p>
-                  123 Anywhere Street,
+                  Appa Pada, Malad East
                   <br />
                   Mumbai, Maharashtra
                 </p>
@@ -179,7 +179,7 @@ function Contact() {
                 </h3>
 
                 <p>
-                  9:00 AM - 8:00 PM
+                  10:00 AM - 10:00 PM
                 </p>
               </div>
 
