@@ -5378,6 +5378,13 @@ a {
     text-align: center;
   }
 
+  /* hero section */
+  .about-visual img {
+    width: 100%;
+    height: auto;
+    border-radius: 50px;
+}
+
 }
 
 /* =========================
