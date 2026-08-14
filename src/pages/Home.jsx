@@ -82,7 +82,9 @@ function Home() {
           {/* Hero Visual */}
           <div className="hero-visual">
 
-            <div className="hero-blob"></div>
+            <div className="hero-blob">
+              <img src="/images/doctor-sandesh-malad-east.png" alt="Doctor"></img>
+            </div>
 
             {/* <div className="doctor-placeholder">
               <span>Doctor Image</span>
@@ -91,7 +93,7 @@ function Home() {
             <div className="experience-card">
               <div className="experience-icon">★</div>
               <div>
-                <strong>15+ Years</strong>
+                <strong>7+ Years</strong>
                 <span>of Trusted Care</span>
               </div>
             </div>
@@ -204,11 +206,11 @@ function Home() {
 
           <div className="about-visual">
             <div className="about-image-placeholder">
-              Clinic Image
+              <img src="/images/saanvi-clinic-malad-east.jpg" alt="Doctor"></img>
             </div>
 
             <div className="about-badge">
-              <strong>10K+</strong>
+              <strong>1200+</strong>
               <span>Happy Patients</span>
             </div>
           </div>

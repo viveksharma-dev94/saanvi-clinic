@@ -126,10 +126,10 @@ function Header() {
           <p>Need medical assistance?</p>
 
           <a
-            href="tel:+919999999999"
+            href="tel:+919869407515"
             className="mobile-call"
           >
-            ☎ &nbsp; +91 99999 99999
+            ☎ &nbsp; +91 9869407515
           </a>
 
           <NavLink
