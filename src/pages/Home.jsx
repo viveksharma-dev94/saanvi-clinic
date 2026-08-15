@@ -31,7 +31,7 @@ function Home() {
             <h1>
               Quality Healthcare
               <br />
-              <span>You Can Trustt</span>
+              <span>You Can Trust</span>
             </h1>
 
             <p>
