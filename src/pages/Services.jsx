@@ -202,7 +202,7 @@ function Services() {
 
             <div className="why-stat">
 
-              <strong>10+</strong>
+              <strong>7+</strong>
 
               <span>
                 Years of

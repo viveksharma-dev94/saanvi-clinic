@@ -49,7 +49,7 @@ function About() {
             </div>
 
             <div className="about-floating-card">
-              <strong>10+</strong>
+              <strong>7+</strong>
               <span>Years of Experience</span>
             </div>
 
@@ -72,29 +72,37 @@ function About() {
               WHO WE ARE
             </span>
 
-            <h2>
-              Caring For People,
-              <br />
-              <span>Not Just Patients.</span>
-            </h2>
+            <div className="about-approach-visual">
+
+            <div className="approach-circle-img">
+
+              {/* <div className="approach-cross">
+                <span></span>
+                <span></span>
+              </div> */}
+
+            </div>
+
+            <div className="approach-dot approach-dot-one"></div>
+            <div className="approach-dot approach-dot-two"></div>
+
+          </div>
 
           </div>
 
 
           <div className="about-intro-content">
 
-            <p className="about-large-text">
-              At CARE Clinic, we believe good healthcare starts
-              with listening. Every patient has different needs,
-              concerns, and expectations.
-            </p>
+            <h2>
+              Meet Dr. Sandesh Yadav
+            </h2>
 
             <p>
-              Our approach combines medical knowledge, modern
-              healthcare practices, and genuine compassion. We
-              take the time to understand your concerns and
-              provide care that is clear, practical, and
-              personalized.
+              Dr. Sandesh Yadav, BHMS, CCMP, PGDEMS, CCH & CGO, is a dedicated family physician with a special
+              interest in Child Health and Family Medicine. He provides patient-centered healthcare with a focus
+              on careful clinical assessment, appropriate diagnosis, individualized treatment, preventive healthcare,
+              and follow-up care. At The Saanvi Clinic, Dr. Sandesh Yadav aims to provide compassionate and accessible
+              medical guidance for children, adults, and families in a comfortable and patient-friendly environment.
             </p>
 
             <p>
@@ -117,7 +125,7 @@ function About() {
         <div className="container about-stats-grid">
 
           <div className="about-stat">
-            <strong>10+</strong>
+            <strong>7+</strong>
             <span>Years Experience</span>
           </div>
 

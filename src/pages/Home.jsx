@@ -218,7 +218,7 @@ function Home() {
           <div className="about-content">
 
             <span className="section-label">
-              ABOUT OUR CLINIC
+              About The Saanvi Clinic
             </span>
 
             <h2>
@@ -227,8 +227,10 @@ function Home() {
             </h2>
 
             <p>
-              At CARE Clinic, we believe quality healthcare should be
-              accessible, comfortable, and patient-focused.
+              The Saanvi Clinic is a patient-friendly healthcare clinic providing consultation and medical
+               guidance for children, adults and families. The clinic focuses on careful clinical assessment,
+               appropriate investigations when required, individualized treatment, preventive healthcare,
+               follow-up and health education.
             </p>
 
             <p>
