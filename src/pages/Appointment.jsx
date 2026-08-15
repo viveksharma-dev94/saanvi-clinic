@@ -194,7 +194,7 @@ function Appointment() {
                 <span>NEED HELP?</span>
 
                 <h3>
-                  +91 99999 99999
+                  +91 9869407515
                 </h3>
 
                 <p>
@@ -505,7 +505,7 @@ function Appointment() {
           </div>
 
           <a
-            href="tel:+919999999999"
+            href="tel:+919869407515"
             className="appointment-call-btn"
           >
             ☎ &nbsp; Call Now
